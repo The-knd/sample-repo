@@ -4,8 +4,10 @@ from classes.CStack import Stack
 
 print("Hello World!")
 
+s=Stack()
 
-
-
+print(s.isEmpty())
+s.push("Maria")
+print(s.pop())
 
 
