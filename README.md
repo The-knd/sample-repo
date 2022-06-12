@@ -1,2 +1,2 @@
 # repo-example
-Sampke Text
+Sample Text
